@@ -1,6 +1,9 @@
 box2d.js
 ========
 
+Absolute Hero Games Fork
+------------------------
+We've created a fork to address some missing bindings in Kripken's original box2d c++ port.
 
 **Demo: http://kripken.github.io/box2d.js/webgl_demo/box2d.html**
 
