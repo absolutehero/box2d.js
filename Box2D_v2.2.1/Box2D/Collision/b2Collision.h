@@ -158,9 +158,9 @@ struct b2ClipVertex
 // emscripten - b2RayCastInput: add constructor
 struct b2RayCastInput
 {
-    	//b2RayCastInput() {}
-
-	b2Vec2 p1, p2;
+	b2RayCastInput() {}
+	b2Vec2 p1;
+	b2Vec2 p2;
 	float32 maxFraction;
 };
 
