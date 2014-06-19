@@ -1,0 +1,506 @@
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Collision/b2BroadPhase.cpp -o Box2D_v2.2.1/Box2D/Collision/b2BroadPhase.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Collision/b2CollideCircle.cpp -o Box2D_v2.2.1/Box2D/Collision/b2CollideCircle.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Collision/b2CollideEdge.cpp -o Box2D_v2.2.1/Box2D/Collision/b2CollideEdge.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Collision/b2CollidePolygon.cpp -o Box2D_v2.2.1/Box2D/Collision/b2CollidePolygon.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Collision/b2Collision.cpp -o Box2D_v2.2.1/Box2D/Collision/b2Collision.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Collision/b2Distance.cpp -o Box2D_v2.2.1/Box2D/Collision/b2Distance.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Collision/b2DynamicTree.cpp -o Box2D_v2.2.1/Box2D/Collision/b2DynamicTree.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Collision/b2TimeOfImpact.cpp -o Box2D_v2.2.1/Box2D/Collision/b2TimeOfImpact.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Collision/Shapes/b2ChainShape.cpp -o Box2D_v2.2.1/Box2D/Collision/Shapes/b2ChainShape.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Collision/Shapes/b2CircleShape.cpp -o Box2D_v2.2.1/Box2D/Collision/Shapes/b2CircleShape.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Collision/Shapes/b2EdgeShape.cpp -o Box2D_v2.2.1/Box2D/Collision/Shapes/b2EdgeShape.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Collision/Shapes/b2PolygonShape.cpp -o Box2D_v2.2.1/Box2D/Collision/Shapes/b2PolygonShape.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Common/b2BlockAllocator.cpp -o Box2D_v2.2.1/Box2D/Common/b2BlockAllocator.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Common/b2Draw.cpp -o Box2D_v2.2.1/Box2D/Common/b2Draw.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Common/b2Math.cpp -o Box2D_v2.2.1/Box2D/Common/b2Math.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Common/b2Settings.cpp -o Box2D_v2.2.1/Box2D/Common/b2Settings.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Common/b2StackAllocator.cpp -o Box2D_v2.2.1/Box2D/Common/b2StackAllocator.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Common/b2Timer.cpp -o Box2D_v2.2.1/Box2D/Common/b2Timer.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Dynamics/b2Body.cpp -o Box2D_v2.2.1/Box2D/Dynamics/b2Body.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Dynamics/b2ContactManager.cpp -o Box2D_v2.2.1/Box2D/Dynamics/b2ContactManager.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Dynamics/b2Fixture.cpp -o Box2D_v2.2.1/Box2D/Dynamics/b2Fixture.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Dynamics/b2Island.cpp -o Box2D_v2.2.1/Box2D/Dynamics/b2Island.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Dynamics/b2World.cpp -o Box2D_v2.2.1/Box2D/Dynamics/b2World.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Dynamics/b2WorldCallbacks.cpp -o Box2D_v2.2.1/Box2D/Dynamics/b2WorldCallbacks.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Dynamics/Contacts/b2ChainAndCircleContact.cpp -o Box2D_v2.2.1/Box2D/Dynamics/Contacts/b2ChainAndCircleContact.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Dynamics/Contacts/b2ChainAndPolygonContact.cpp -o Box2D_v2.2.1/Box2D/Dynamics/Contacts/b2ChainAndPolygonContact.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Dynamics/Contacts/b2CircleContact.cpp -o Box2D_v2.2.1/Box2D/Dynamics/Contacts/b2CircleContact.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Dynamics/Contacts/b2Contact.cpp -o Box2D_v2.2.1/Box2D/Dynamics/Contacts/b2Contact.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Dynamics/Contacts/b2ContactSolver.cpp -o Box2D_v2.2.1/Box2D/Dynamics/Contacts/b2ContactSolver.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Dynamics/Contacts/b2EdgeAndCircleContact.cpp -o Box2D_v2.2.1/Box2D/Dynamics/Contacts/b2EdgeAndCircleContact.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Dynamics/Contacts/b2EdgeAndPolygonContact.cpp -o Box2D_v2.2.1/Box2D/Dynamics/Contacts/b2EdgeAndPolygonContact.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Dynamics/Contacts/b2PolygonAndCircleContact.cpp -o Box2D_v2.2.1/Box2D/Dynamics/Contacts/b2PolygonAndCircleContact.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Dynamics/Contacts/b2PolygonContact.cpp -o Box2D_v2.2.1/Box2D/Dynamics/Contacts/b2PolygonContact.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Dynamics/Joints/b2DistanceJoint.cpp -o Box2D_v2.2.1/Box2D/Dynamics/Joints/b2DistanceJoint.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Dynamics/Joints/b2FrictionJoint.cpp -o Box2D_v2.2.1/Box2D/Dynamics/Joints/b2FrictionJoint.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Dynamics/Joints/b2GearJoint.cpp -o Box2D_v2.2.1/Box2D/Dynamics/Joints/b2GearJoint.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Dynamics/Joints/b2Joint.cpp -o Box2D_v2.2.1/Box2D/Dynamics/Joints/b2Joint.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Dynamics/Joints/b2MouseJoint.cpp -o Box2D_v2.2.1/Box2D/Dynamics/Joints/b2MouseJoint.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Dynamics/Joints/b2PrismaticJoint.cpp -o Box2D_v2.2.1/Box2D/Dynamics/Joints/b2PrismaticJoint.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Dynamics/Joints/b2PulleyJoint.cpp -o Box2D_v2.2.1/Box2D/Dynamics/Joints/b2PulleyJoint.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Dynamics/Joints/b2RevoluteJoint.cpp -o Box2D_v2.2.1/Box2D/Dynamics/Joints/b2RevoluteJoint.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Dynamics/Joints/b2RopeJoint.cpp -o Box2D_v2.2.1/Box2D/Dynamics/Joints/b2RopeJoint.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Dynamics/Joints/b2WeldJoint.cpp -o Box2D_v2.2.1/Box2D/Dynamics/Joints/b2WeldJoint.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Dynamics/Joints/b2WheelJoint.cpp -o Box2D_v2.2.1/Box2D/Dynamics/Joints/b2WheelJoint.bc
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 Box2D_v2.2.1/Box2D/Rope/b2Rope.cpp -o Box2D_v2.2.1/Box2D/Rope/b2Rope.bc
+cpp -x c++ -DEM_NO_LIBCPP -IBox2D_v2.2.1 root.h > box2d.clean.h
+python /home/jarbot/Documents/git/emscripten/tools/bindings_generator.py box2d_bindings box2d.clean.h -- '{ "ignored": "b2Shape::m_type,b2BroadPhase::RayCast,b2BroadPhase::UpdatePairs,b2BroadPhase::Query,b2DynamicTree::RayCast,b2DynamicTree::Query,b2ChainShape::m_nextVertex,b2ChainShape::m_hasNextVertex,b2EdgeShape::m_hasVertex3,b2EdgeShape::m_vertex2,b2EdgeShape::m_vertex3,b2Mat22,b2Mat33" }' > bindings.out
+/home/jarbot/Documents/git/emscripten/em++ -IBox2D_v2.2.1 -include root.h box2d_bindings.cpp -o box2d_bindings.bc
+/home/jarbot/Documents/git/emscripten/em++ -o box2d.bc Box2D_v2.2.1/Box2D/Collision/b2BroadPhase.bc Box2D_v2.2.1/Box2D/Collision/b2CollideCircle.bc Box2D_v2.2.1/Box2D/Collision/b2CollideEdge.bc Box2D_v2.2.1/Box2D/Collision/b2CollidePolygon.bc Box2D_v2.2.1/Box2D/Collision/b2Collision.bc Box2D_v2.2.1/Box2D/Collision/b2Distance.bc Box2D_v2.2.1/Box2D/Collision/b2DynamicTree.bc Box2D_v2.2.1/Box2D/Collision/b2TimeOfImpact.bc Box2D_v2.2.1/Box2D/Collision/Shapes/b2ChainShape.bc Box2D_v2.2.1/Box2D/Collision/Shapes/b2CircleShape.bc Box2D_v2.2.1/Box2D/Collision/Shapes/b2EdgeShape.bc Box2D_v2.2.1/Box2D/Collision/Shapes/b2PolygonShape.bc Box2D_v2.2.1/Box2D/Common/b2BlockAllocator.bc Box2D_v2.2.1/Box2D/Common/b2Draw.bc Box2D_v2.2.1/Box2D/Common/b2Math.bc Box2D_v2.2.1/Box2D/Common/b2Settings.bc Box2D_v2.2.1/Box2D/Common/b2StackAllocator.bc Box2D_v2.2.1/Box2D/Common/b2Timer.bc Box2D_v2.2.1/Box2D/Dynamics/b2Body.bc Box2D_v2.2.1/Box2D/Dynamics/b2ContactManager.bc Box2D_v2.2.1/Box2D/Dynamics/b2Fixture.bc Box2D_v2.2.1/Box2D/Dynamics/b2Island.bc Box2D_v2.2.1/Box2D/Dynamics/b2World.bc Box2D_v2.2.1/Box2D/Dynamics/b2WorldCallbacks.bc Box2D_v2.2.1/Box2D/Dynamics/Contacts/b2ChainAndCircleContact.bc Box2D_v2.2.1/Box2D/Dynamics/Contacts/b2ChainAndPolygonContact.bc Box2D_v2.2.1/Box2D/Dynamics/Contacts/b2CircleContact.bc Box2D_v2.2.1/Box2D/Dynamics/Contacts/b2Contact.bc Box2D_v2.2.1/Box2D/Dynamics/Contacts/b2ContactSolver.bc Box2D_v2.2.1/Box2D/Dynamics/Contacts/b2EdgeAndCircleContact.bc Box2D_v2.2.1/Box2D/Dynamics/Contacts/b2EdgeAndPolygonContact.bc Box2D_v2.2.1/Box2D/Dynamics/Contacts/b2PolygonAndCircleContact.bc Box2D_v2.2.1/Box2D/Dynamics/Contacts/b2PolygonContact.bc Box2D_v2.2.1/Box2D/Dynamics/Joints/b2DistanceJoint.bc Box2D_v2.2.1/Box2D/Dynamics/Joints/b2FrictionJoint.bc Box2D_v2.2.1/Box2D/Dynamics/Joints/b2GearJoint.bc Box2D_v2.2.1/Box2D/Dynamics/Joints/b2Joint.bc Box2D_v2.2.1/Box2D/Dynamics/Joints/b2MouseJoint.bc Box2D_v2.2.1/Box2D/Dynamics/Joints/b2PrismaticJoint.bc Box2D_v2.2.1/Box2D/Dynamics/Joints/b2PulleyJoint.bc Box2D_v2.2.1/Box2D/Dynamics/Joints/b2RevoluteJoint.bc Box2D_v2.2.1/Box2D/Dynamics/Joints/b2RopeJoint.bc Box2D_v2.2.1/Box2D/Dynamics/Joints/b2WeldJoint.bc Box2D_v2.2.1/Box2D/Dynamics/Joints/b2WheelJoint.bc Box2D_v2.2.1/Box2D/Rope/b2Rope.bc box2d_bindings.bc
+/home/jarbot/Documents/git/emscripten/em++ -O2 -s EXPORT_BINDINGS=1 -s RESERVED_FUNCTION_POINTERS=20 --js-transform "python bundle.py" --closure 1 box2d.bc -o box2d.js
+WARNING: t_ignore contains a literal backslash '\'
+box2d_bindings.cpp:42:47: warning: 'emscripten_bind_b2ContactManager__get_m_broadPhase_p0' has C-linkage specified, but returns
+      user-defined type 'b2BroadPhase &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2BroadPhase& __attribute__((used, noinline)) emscripten_bind_b2ContactManager__get_m_broadPhase_p0(b2ContactManager * self) {
+                                              ^
+box2d_bindings.cpp:72:41: warning: 'emscripten_bind_b2DistanceJoint__GetAnchorB_p0' has C-linkage specified, but returns user-defined
+      type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2DistanceJoint__GetAnchorB_p0(b2DistanceJoint * self) {
+                                        ^
+box2d_bindings.cpp:76:41: warning: 'emscripten_bind_b2DistanceJoint__GetAnchorA_p0' has C-linkage specified, but returns user-defined
+      type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2DistanceJoint__GetAnchorA_p0(b2DistanceJoint * self) {
+                                        ^
+box2d_bindings.cpp:83:47: warning: 'emscripten_bind_b2DistanceJoint__GetLocalAnchorA_p0' has C-linkage specified, but returns
+      user-defined type 'const b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+const b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2DistanceJoint__GetLocalAnchorA_p0(b2DistanceJoint * self) {
+                                              ^
+box2d_bindings.cpp:86:47: warning: 'emscripten_bind_b2DistanceJoint__GetLocalAnchorB_p0' has C-linkage specified, but returns
+      user-defined type 'const b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+const b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2DistanceJoint__GetLocalAnchorB_p0(b2DistanceJoint * self) {
+                                              ^
+box2d_bindings.cpp:92:41: warning: 'emscripten_bind_b2DistanceJoint__GetReactionForce_p1' has C-linkage specified, but returns
+      user-defined type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2DistanceJoint__GetReactionForce_p1(b2DistanceJoint * self, float arg0) {
+                                        ^
+box2d_bindings.cpp:168:47: warning: 'emscripten_bind_b2Fixture__GetAABB_p1' has C-linkage specified, but returns user-defined type
+      'const b2AABB &' which is incompatible with C [-Wreturn-type-c-linkage]
+const b2AABB& __attribute__((used, noinline)) emscripten_bind_b2Fixture__GetAABB_p1(b2Fixture * self, signed int arg0) {
+                                              ^
+box2d_bindings.cpp:189:49: warning: 'emscripten_bind_b2Fixture__GetFilterData_p0' has C-linkage specified, but returns user-defined type
+      'const b2Filter &' which is incompatible with C [-Wreturn-type-c-linkage]
+const b2Filter& __attribute__((used, noinline)) emscripten_bind_b2Fixture__GetFilterData_p0(b2Fixture * self) {
+                                                ^
+box2d_bindings.cpp:219:41: warning: 'emscripten_bind_b2MouseJoint__GetAnchorB_p0' has C-linkage specified, but returns user-defined type
+      'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2MouseJoint__GetAnchorB_p0(b2MouseJoint * self) {
+                                        ^
+box2d_bindings.cpp:223:41: warning: 'emscripten_bind_b2MouseJoint__GetAnchorA_p0' has C-linkage specified, but returns user-defined type
+      'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2MouseJoint__GetAnchorA_p0(b2MouseJoint * self) {
+                                        ^
+box2d_bindings.cpp:236:47: warning: 'emscripten_bind_b2MouseJoint__GetTarget_p0' has C-linkage specified, but returns user-defined type
+      'const b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+const b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2MouseJoint__GetTarget_p0(b2MouseJoint * self) {
+                                              ^
+box2d_bindings.cpp:242:41: warning: 'emscripten_bind_b2MouseJoint__GetReactionForce_p1' has C-linkage specified, but returns user-defined
+      type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2MouseJoint__GetReactionForce_p1(b2MouseJoint * self, float arg0) {
+                                        ^
+box2d_bindings.cpp:279:41: warning: 'emscripten_bind_b2PulleyJoint__GetAnchorA_p0' has C-linkage specified, but returns user-defined type
+      'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2PulleyJoint__GetAnchorA_p0(b2PulleyJoint * self) {
+                                        ^
+box2d_bindings.cpp:286:41: warning: 'emscripten_bind_b2PulleyJoint__GetGroundAnchorB_p0' has C-linkage specified, but returns
+      user-defined type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2PulleyJoint__GetGroundAnchorB_p0(b2PulleyJoint * self) {
+                                        ^
+box2d_bindings.cpp:296:41: warning: 'emscripten_bind_b2PulleyJoint__GetGroundAnchorA_p0' has C-linkage specified, but returns
+      user-defined type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2PulleyJoint__GetGroundAnchorA_p0(b2PulleyJoint * self) {
+                                        ^
+box2d_bindings.cpp:318:41: warning: 'emscripten_bind_b2PulleyJoint__GetAnchorB_p0' has C-linkage specified, but returns user-defined type
+      'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2PulleyJoint__GetAnchorB_p0(b2PulleyJoint * self) {
+                                        ^
+box2d_bindings.cpp:322:41: warning: 'emscripten_bind_b2PulleyJoint__GetReactionForce_p1' has C-linkage specified, but returns
+      user-defined type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2PulleyJoint__GetReactionForce_p1(b2PulleyJoint * self, float arg0) {
+                                        ^
+box2d_bindings.cpp:341:47: warning: 'emscripten_bind_b2BroadPhase__GetFatAABB_p1' has C-linkage specified, but returns user-defined type
+      'const b2AABB &' which is incompatible with C [-Wreturn-type-c-linkage]
+const b2AABB& __attribute__((used, noinline)) emscripten_bind_b2BroadPhase__GetFatAABB_p1(b2BroadPhase * self, signed int arg0) {
+                                              ^
+box2d_bindings.cpp:389:50: warning: 'emscripten_bind_b2World__GetProfile_p0' has C-linkage specified, but returns user-defined type
+      'const b2Profile &' which is incompatible with C [-Wreturn-type-c-linkage]
+const b2Profile& __attribute__((used, noinline)) emscripten_bind_b2World__GetProfile_p0(b2World * self) {
+                                                 ^
+box2d_bindings.cpp:398:57: warning: 'emscripten_bind_b2World__GetContactManager_p0' has C-linkage specified, but returns user-defined
+      type 'const b2ContactManager &' which is incompatible with C [-Wreturn-type-c-linkage]
+const b2ContactManager& __attribute__((used, noinline)) emscripten_bind_b2World__GetContactManager_p0(b2World * self) {
+                                                        ^
+box2d_bindings.cpp:488:41: warning: 'emscripten_bind_b2World__GetGravity_p0' has C-linkage specified, but returns user-defined type
+      'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2World__GetGravity_p0(b2World * self) {
+                                        ^
+box2d_bindings.cpp:510:47: warning: 'emscripten_bind_b2PrismaticJoint__GetLocalAxisA_p0' has C-linkage specified, but returns
+      user-defined type 'const b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+const b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2PrismaticJoint__GetLocalAxisA_p0(b2PrismaticJoint * self) {
+                                              ^
+box2d_bindings.cpp:516:41: warning: 'emscripten_bind_b2PrismaticJoint__GetAnchorA_p0' has C-linkage specified, but returns user-defined
+      type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2PrismaticJoint__GetAnchorA_p0(b2PrismaticJoint * self) {
+                                        ^
+box2d_bindings.cpp:526:47: warning: 'emscripten_bind_b2PrismaticJoint__GetLocalAnchorA_p0' has C-linkage specified, but returns
+      user-defined type 'const b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+const b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2PrismaticJoint__GetLocalAnchorA_p0(b2PrismaticJoint * self) {
+                                              ^
+box2d_bindings.cpp:532:47: warning: 'emscripten_bind_b2PrismaticJoint__GetLocalAnchorB_p0' has C-linkage specified, but returns
+      user-defined type 'const b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+const b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2PrismaticJoint__GetLocalAnchorB_p0(b2PrismaticJoint * self) {
+                                              ^
+box2d_bindings.cpp:550:41: warning: 'emscripten_bind_b2PrismaticJoint__GetReactionForce_p1' has C-linkage specified, but returns
+      user-defined type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2PrismaticJoint__GetReactionForce_p1(b2PrismaticJoint * self, float arg0) {
+                                        ^
+box2d_bindings.cpp:599:41: warning: 'emscripten_bind_b2PrismaticJoint__GetAnchorB_p0' has C-linkage specified, but returns user-defined
+      type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2PrismaticJoint__GetAnchorB_p0(b2PrismaticJoint * self) {
+                                        ^
+box2d_bindings.cpp:618:47: warning: 'emscripten_bind_b2CircleShape__GetVertex_p1' has C-linkage specified, but returns user-defined type
+      'const b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+const b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2CircleShape__GetVertex_p1(b2CircleShape * self, signed int arg0) {
+                                              ^
+box2d_bindings.cpp:624:47: warning: 'emscripten_bind_b2CircleShape__GetSupportVertex_p1' has C-linkage specified, but returns
+      user-defined type 'const b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+const b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2CircleShape__GetSupportVertex_p1(b2CircleShape * self, const b2Ve...
+                                              ^
+box2d_bindings.cpp:651:41: warning: 'emscripten_bind_b2CircleShape__get_m_p_p0' has C-linkage specified, but returns user-defined type
+      'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2CircleShape__get_m_p_p0(b2CircleShape * self) {
+                                        ^
+box2d_bindings.cpp:666:47: warning: 'emscripten_bind_b2WheelJoint__GetLocalAxisA_p0' has C-linkage specified, but returns user-defined
+      type 'const b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+const b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2WheelJoint__GetLocalAxisA_p0(b2WheelJoint * self) {
+                                              ^
+box2d_bindings.cpp:672:41: warning: 'emscripten_bind_b2WheelJoint__GetAnchorB_p0' has C-linkage specified, but returns user-defined type
+      'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2WheelJoint__GetAnchorB_p0(b2WheelJoint * self) {
+                                        ^
+box2d_bindings.cpp:676:41: warning: 'emscripten_bind_b2WheelJoint__GetAnchorA_p0' has C-linkage specified, but returns user-defined type
+      'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2WheelJoint__GetAnchorA_p0(b2WheelJoint * self) {
+                                        ^
+box2d_bindings.cpp:686:47: warning: 'emscripten_bind_b2WheelJoint__GetLocalAnchorA_p0' has C-linkage specified, but returns user-defined
+      type 'const b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+const b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2WheelJoint__GetLocalAnchorA_p0(b2WheelJoint * self) {
+                                              ^
+box2d_bindings.cpp:692:47: warning: 'emscripten_bind_b2WheelJoint__GetLocalAnchorB_p0' has C-linkage specified, but returns user-defined
+      type 'const b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+const b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2WheelJoint__GetLocalAnchorB_p0(b2WheelJoint * self) {
+                                              ^
+box2d_bindings.cpp:713:41: warning: 'emscripten_bind_b2WheelJoint__GetReactionForce_p1' has C-linkage specified, but returns user-defined
+      type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2WheelJoint__GetReactionForce_p1(b2WheelJoint * self, float arg0) {
+                                        ^
+box2d_bindings.cpp:801:41: warning: 'emscripten_bind_b2Joint__GetAnchorA_p0' has C-linkage specified, but returns user-defined type
+      'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2Joint__GetAnchorA_p0(b2Joint * self) {
+                                        ^
+box2d_bindings.cpp:820:41: warning: 'emscripten_bind_b2Joint__GetAnchorB_p0' has C-linkage specified, but returns user-defined type
+      'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2Joint__GetAnchorB_p0(b2Joint * self) {
+                                        ^
+box2d_bindings.cpp:824:41: warning: 'emscripten_bind_b2Joint__GetReactionForce_p1' has C-linkage specified, but returns user-defined type
+      'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2Joint__GetReactionForce_p1(b2Joint * self, float arg0) {
+                                        ^
+box2d_bindings.cpp:837:41: warning: 'emscripten_bind_b2GearJoint__GetAnchorA_p0' has C-linkage specified, but returns user-defined type
+      'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2GearJoint__GetAnchorA_p0(b2GearJoint * self) {
+                                        ^
+box2d_bindings.cpp:871:41: warning: 'emscripten_bind_b2GearJoint__GetAnchorB_p0' has C-linkage specified, but returns user-defined type
+      'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2GearJoint__GetAnchorB_p0(b2GearJoint * self) {
+                                        ^
+box2d_bindings.cpp:875:41: warning: 'emscripten_bind_b2GearJoint__GetReactionForce_p1' has C-linkage specified, but returns user-defined
+      type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2GearJoint__GetReactionForce_p1(b2GearJoint * self, float arg0) {
+                                        ^
+box2d_bindings.cpp:906:47: warning: 'emscripten_bind_b2DynamicTree__GetFatAABB_p1' has C-linkage specified, but returns user-defined type
+      'const b2AABB &' which is incompatible with C [-Wreturn-type-c-linkage]
+const b2AABB& __attribute__((used, noinline)) emscripten_bind_b2DynamicTree__GetFatAABB_p1(b2DynamicTree * self, signed int arg0) {
+                                              ^
+box2d_bindings.cpp:951:41: warning: 'emscripten_bind_b2WeldJoint__GetAnchorB_p0' has C-linkage specified, but returns user-defined type
+      'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2WeldJoint__GetAnchorB_p0(b2WeldJoint * self) {
+                                        ^
+box2d_bindings.cpp:955:41: warning: 'emscripten_bind_b2WeldJoint__GetAnchorA_p0' has C-linkage specified, but returns user-defined type
+      'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2WeldJoint__GetAnchorA_p0(b2WeldJoint * self) {
+                                        ^
+box2d_bindings.cpp:962:47: warning: 'emscripten_bind_b2WeldJoint__GetLocalAnchorA_p0' has C-linkage specified, but returns user-defined
+      type 'const b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+const b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2WeldJoint__GetLocalAnchorA_p0(b2WeldJoint * self) {
+                                              ^
+box2d_bindings.cpp:965:47: warning: 'emscripten_bind_b2WeldJoint__GetLocalAnchorB_p0' has C-linkage specified, but returns user-defined
+      type 'const b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+const b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2WeldJoint__GetLocalAnchorB_p0(b2WeldJoint * self) {
+                                              ^
+box2d_bindings.cpp:974:41: warning: 'emscripten_bind_b2WeldJoint__GetReactionForce_p1' has C-linkage specified, but returns user-defined
+      type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2WeldJoint__GetReactionForce_p1(b2WeldJoint * self, float arg0) {
+                                        ^
+box2d_bindings.cpp:1017:41: warning: 'emscripten_bind_b2RevoluteJoint__GetAnchorA_p0' has C-linkage specified, but returns user-defined
+      type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2RevoluteJoint__GetAnchorA_p0(b2RevoluteJoint * self) {
+                                        ^
+box2d_bindings.cpp:1027:47: warning: 'emscripten_bind_b2RevoluteJoint__GetLocalAnchorA_p0' has C-linkage specified, but returns
+      user-defined type 'const b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+const b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2RevoluteJoint__GetLocalAnchorA_p0(b2RevoluteJoint * self) {
+                                              ^
+box2d_bindings.cpp:1033:47: warning: 'emscripten_bind_b2RevoluteJoint__GetLocalAnchorB_p0' has C-linkage specified, but returns
+      user-defined type 'const b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+const b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2RevoluteJoint__GetLocalAnchorB_p0(b2RevoluteJoint * self) {
+                                              ^
+box2d_bindings.cpp:1057:41: warning: 'emscripten_bind_b2RevoluteJoint__GetReactionForce_p1' has C-linkage specified, but returns
+      user-defined type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2RevoluteJoint__GetReactionForce_p1(b2RevoluteJoint * self, float arg0) {
+                                        ^
+box2d_bindings.cpp:1100:41: warning: 'emscripten_bind_b2RevoluteJoint__GetAnchorB_p0' has C-linkage specified, but returns user-defined
+      type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2RevoluteJoint__GetAnchorB_p0(b2RevoluteJoint * self) {
+                                        ^
+box2d_bindings.cpp:1224:41: warning: 'emscripten_bind_b2RopeJoint__GetAnchorA_p0' has C-linkage specified, but returns user-defined type
+      'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2RopeJoint__GetAnchorA_p0(b2RopeJoint * self) {
+                                        ^
+box2d_bindings.cpp:1249:47: warning: 'emscripten_bind_b2RopeJoint__GetLocalAnchorA_p0' has C-linkage specified, but returns user-defined
+      type 'const b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+const b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2RopeJoint__GetLocalAnchorA_p0(b2RopeJoint * self) {
+                                              ^
+box2d_bindings.cpp:1258:47: warning: 'emscripten_bind_b2RopeJoint__GetLocalAnchorB_p0' has C-linkage specified, but returns user-defined
+      type 'const b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+const b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2RopeJoint__GetLocalAnchorB_p0(b2RopeJoint * self) {
+                                              ^
+box2d_bindings.cpp:1264:41: warning: 'emscripten_bind_b2RopeJoint__GetAnchorB_p0' has C-linkage specified, but returns user-defined type
+      'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2RopeJoint__GetAnchorB_p0(b2RopeJoint * self) {
+                                        ^
+box2d_bindings.cpp:1268:41: warning: 'emscripten_bind_b2RopeJoint__GetReactionForce_p1' has C-linkage specified, but returns user-defined
+      type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2RopeJoint__GetReactionForce_p1(b2RopeJoint * self, float arg0) {
+                                        ^
+box2d_bindings.cpp:1299:47: warning: 'emscripten_bind_b2PolygonShape__GetVertex_p1' has C-linkage specified, but returns user-defined
+      type 'const b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+const b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2PolygonShape__GetVertex_p1(b2PolygonShape * self, signed int arg0) {
+                                              ^
+box2d_bindings.cpp:1338:41: warning: 'emscripten_bind_b2PolygonShape__get_m_centroid_p0' has C-linkage specified, but returns
+      user-defined type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2PolygonShape__get_m_centroid_p0(b2PolygonShape * self) {
+                                        ^
+box2d_bindings.cpp:1485:41: warning: 'emscripten_bind_b2Body__GetLocalPoint_p1' has C-linkage specified, but returns user-defined type
+      'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2Body__GetLocalPoint_p1(b2Body * self, const b2Vec2 & arg0) {
+                                        ^
+box2d_bindings.cpp:1495:41: warning: 'emscripten_bind_b2Body__GetLinearVelocity_p0' has C-linkage specified, but returns user-defined
+      type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2Body__GetLinearVelocity_p0(b2Body * self) {
+                                        ^
+box2d_bindings.cpp:1517:41: warning: 'emscripten_bind_b2Body__GetLinearVelocityFromWorldPoint_p1' has C-linkage specified, but returns
+      user-defined type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2Body__GetLinearVelocityFromWorldPoint_p1(b2Body * self, const b2Vec2 & arg0) {
+                                        ^
+box2d_bindings.cpp:1545:52: warning: 'emscripten_bind_b2Body__GetTransform_p0' has C-linkage specified, but returns user-defined type
+      'const b2Transform &' which is incompatible with C [-Wreturn-type-c-linkage]
+const b2Transform& __attribute__((used, noinline)) emscripten_bind_b2Body__GetTransform_p0(b2Body * self) {
+                                                   ^
+box2d_bindings.cpp:1548:47: warning: 'emscripten_bind_b2Body__GetWorldCenter_p0' has C-linkage specified, but returns user-defined type
+      'const b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+const b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2Body__GetWorldCenter_p0(b2Body * self) {
+                                              ^
+box2d_bindings.cpp:1560:47: warning: 'emscripten_bind_b2Body__GetLocalCenter_p0' has C-linkage specified, but returns user-defined type
+      'const b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+const b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2Body__GetLocalCenter_p0(b2Body * self) {
+                                              ^
+box2d_bindings.cpp:1563:41: warning: 'emscripten_bind_b2Body__GetWorldVector_p1' has C-linkage specified, but returns user-defined type
+      'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2Body__GetWorldVector_p1(b2Body * self, const b2Vec2 & arg0) {
+                                        ^
+box2d_bindings.cpp:1567:41: warning: 'emscripten_bind_b2Body__GetLinearVelocityFromLocalPoint_p1' has C-linkage specified, but returns
+      user-defined type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2Body__GetLinearVelocityFromLocalPoint_p1(b2Body * self, const b2Vec2 & arg0) {
+                                        ^
+box2d_bindings.cpp:1574:41: warning: 'emscripten_bind_b2Body__GetWorldPoint_p1' has C-linkage specified, but returns user-defined type
+      'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2Body__GetWorldPoint_p1(b2Body * self, const b2Vec2 & arg0) {
+                                        ^
+box2d_bindings.cpp:1590:41: warning: 'emscripten_bind_b2Body__GetLocalVector_p1' has C-linkage specified, but returns user-defined type
+      'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2Body__GetLocalVector_p1(b2Body * self, const b2Vec2 & arg0) {
+                                        ^
+box2d_bindings.cpp:1624:47: warning: 'emscripten_bind_b2Body__GetPosition_p0' has C-linkage specified, but returns user-defined type
+      'const b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+const b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2Body__GetPosition_p0(b2Body * self) {
+                                              ^
+box2d_bindings.cpp:1633:41: warning: 'emscripten_bind_b2FrictionJoint__GetAnchorA_p0' has C-linkage specified, but returns user-defined
+      type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2FrictionJoint__GetAnchorA_p0(b2FrictionJoint * self) {
+                                        ^
+box2d_bindings.cpp:1661:47: warning: 'emscripten_bind_b2FrictionJoint__GetLocalAnchorA_p0' has C-linkage specified, but returns
+      user-defined type 'const b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+const b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2FrictionJoint__GetLocalAnchorA_p0(b2FrictionJoint * self) {
+                                              ^
+box2d_bindings.cpp:1667:47: warning: 'emscripten_bind_b2FrictionJoint__GetLocalAnchorB_p0' has C-linkage specified, but returns
+      user-defined type 'const b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+const b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2FrictionJoint__GetLocalAnchorB_p0(b2FrictionJoint * self) {
+                                              ^
+box2d_bindings.cpp:1673:41: warning: 'emscripten_bind_b2FrictionJoint__GetAnchorB_p0' has C-linkage specified, but returns user-defined
+      type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2FrictionJoint__GetAnchorB_p0(b2FrictionJoint * self) {
+                                        ^
+box2d_bindings.cpp:1677:41: warning: 'emscripten_bind_b2FrictionJoint__GetReactionForce_p1' has C-linkage specified, but returns
+      user-defined type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2FrictionJoint__GetReactionForce_p1(b2FrictionJoint * self, float arg0) {
+                                        ^
+box2d_bindings.cpp:1768:41: warning: 'emscripten_bind_b2FrictionJointDef__get_localAnchorA_p0' has C-linkage specified, but returns
+      user-defined type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2FrictionJointDef__get_localAnchorA_p0(b2FrictionJointDef * self) {
+                                        ^
+box2d_bindings.cpp:1774:41: warning: 'emscripten_bind_b2FrictionJointDef__get_localAnchorB_p0' has C-linkage specified, but returns
+      user-defined type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2FrictionJointDef__get_localAnchorB_p0(b2FrictionJointDef * self) {
+                                        ^
+box2d_bindings.cpp:1837:41: warning: 'emscripten_bind_b2BodyDef__get_position_p0' has C-linkage specified, but returns user-defined type
+      'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2BodyDef__get_position_p0(b2BodyDef * self) {
+                                        ^
+box2d_bindings.cpp:1867:41: warning: 'emscripten_bind_b2BodyDef__get_linearVelocity_p0' has C-linkage specified, but returns user-defined
+      type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2BodyDef__get_linearVelocity_p0(b2BodyDef * self) {
+                                        ^
+box2d_bindings.cpp:1909:41: warning: 'emscripten_bind_b2Vec2__Skew_p0' has C-linkage specified, but returns user-defined type 'b2Vec2 &'
+      which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2Vec2__Skew_p0(b2Vec2 * self) {
+                                        ^
+box2d_bindings.cpp:1931:41: warning: 'emscripten_bind_b2Vec2__op_sub_p0' has C-linkage specified, but returns user-defined type
+      'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2Vec2__op_sub_p0(b2Vec2 * self) {
+                                        ^
+box2d_bindings.cpp:1961:41: warning: 'emscripten_bind_b2Vec3__op_sub_p0' has C-linkage specified, but returns user-defined type
+      'b2Vec3 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec3& __attribute__((used, noinline)) emscripten_bind_b2Vec3__op_sub_p0(b2Vec3 * self) {
+                                        ^
+box2d_bindings.cpp:1982:47: warning: 'emscripten_bind_b2DistanceProxy__GetSupportVertex_p1' has C-linkage specified, but returns
+      user-defined type 'const b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+const b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2DistanceProxy__GetSupportVertex_p1(b2DistanceProxy * self, const ...
+                                              ^
+box2d_bindings.cpp:1991:47: warning: 'emscripten_bind_b2DistanceProxy__GetVertex_p1' has C-linkage specified, but returns user-defined
+      type 'const b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+const b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2DistanceProxy__GetVertex_p1(b2DistanceProxy * self, signed int arg0) {
+                                              ^
+box2d_bindings.cpp:2036:43: warning: 'emscripten_bind_b2FixtureDef__get_filter_p0' has C-linkage specified, but returns user-defined type
+      'b2Filter &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Filter& __attribute__((used, noinline)) emscripten_bind_b2FixtureDef__get_filter_p0(b2FixtureDef * self) {
+                                          ^
+box2d_bindings.cpp:2072:41: warning: 'emscripten_bind_b2PrismaticJointDef__get_localAxisA_p0' has C-linkage specified, but returns
+      user-defined type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2PrismaticJointDef__get_localAxisA_p0(b2PrismaticJointDef * self) {
+                                        ^
+box2d_bindings.cpp:2102:41: warning: 'emscripten_bind_b2PrismaticJointDef__get_localAnchorA_p0' has C-linkage specified, but returns
+      user-defined type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2PrismaticJointDef__get_localAnchorA_p0(b2PrismaticJointDef * self) {
+                                        ^
+box2d_bindings.cpp:2105:41: warning: 'emscripten_bind_b2PrismaticJointDef__get_localAnchorB_p0' has C-linkage specified, but returns
+      user-defined type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2PrismaticJointDef__get_localAnchorB_p0(b2PrismaticJointDef * self) {
+                                        ^
+box2d_bindings.cpp:2147:41: warning: 'emscripten_bind_b2Rot__GetYAxis_p0' has C-linkage specified, but returns user-defined type
+      'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2Rot__GetYAxis_p0(b2Rot * self) {
+                                        ^
+box2d_bindings.cpp:2151:41: warning: 'emscripten_bind_b2Rot__GetXAxis_p0' has C-linkage specified, but returns user-defined type
+      'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2Rot__GetXAxis_p0(b2Rot * self) {
+                                        ^
+box2d_bindings.cpp:2188:41: warning: 'emscripten_bind_b2WheelJointDef__get_localAxisA_p0' has C-linkage specified, but returns
+      user-defined type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2WheelJointDef__get_localAxisA_p0(b2WheelJointDef * self) {
+                                        ^
+box2d_bindings.cpp:2212:41: warning: 'emscripten_bind_b2WheelJointDef__get_localAnchorA_p0' has C-linkage specified, but returns
+      user-defined type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2WheelJointDef__get_localAnchorA_p0(b2WheelJointDef * self) {
+                                        ^
+box2d_bindings.cpp:2218:41: warning: 'emscripten_bind_b2WheelJointDef__get_localAnchorB_p0' has C-linkage specified, but returns
+      user-defined type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2WheelJointDef__get_localAnchorB_p0(b2WheelJointDef * self) {
+                                        ^
+box2d_bindings.cpp:2302:41: warning: 'emscripten_bind_b2RevoluteJointDef__get_localAnchorA_p0' has C-linkage specified, but returns
+      user-defined type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2RevoluteJointDef__get_localAnchorA_p0(b2RevoluteJointDef * self) {
+                                        ^
+box2d_bindings.cpp:2305:41: warning: 'emscripten_bind_b2RevoluteJointDef__get_localAnchorB_p0' has C-linkage specified, but returns
+      user-defined type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2RevoluteJointDef__get_localAnchorB_p0(b2RevoluteJointDef * self) {
+                                        ^
+box2d_bindings.cpp:2341:41: warning: 'emscripten_bind_b2PulleyJointDef__get_groundAnchorB_p0' has C-linkage specified, but returns
+      user-defined type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2PulleyJointDef__get_groundAnchorB_p0(b2PulleyJointDef * self) {
+                                        ^
+box2d_bindings.cpp:2344:41: warning: 'emscripten_bind_b2PulleyJointDef__get_groundAnchorA_p0' has C-linkage specified, but returns
+      user-defined type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2PulleyJointDef__get_groundAnchorA_p0(b2PulleyJointDef * self) {
+                                        ^
+box2d_bindings.cpp:2362:41: warning: 'emscripten_bind_b2PulleyJointDef__get_localAnchorA_p0' has C-linkage specified, but returns
+      user-defined type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2PulleyJointDef__get_localAnchorA_p0(b2PulleyJointDef * self) {
+                                        ^
+box2d_bindings.cpp:2365:41: warning: 'emscripten_bind_b2PulleyJointDef__get_localAnchorB_p0' has C-linkage specified, but returns
+      user-defined type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2PulleyJointDef__get_localAnchorB_p0(b2PulleyJointDef * self) {
+                                        ^
+box2d_bindings.cpp:2443:41: warning: 'emscripten_bind_b2Transform__get_p_p0' has C-linkage specified, but returns user-defined type
+      'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2Transform__get_p_p0(b2Transform * self) {
+                                        ^
+box2d_bindings.cpp:2446:40: warning: 'emscripten_bind_b2Transform__get_q_p0' has C-linkage specified, but returns user-defined type
+      'b2Rot &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Rot& __attribute__((used, noinline)) emscripten_bind_b2Transform__get_q_p0(b2Transform * self) {
+                                       ^
+box2d_bindings.cpp:2503:41: warning: 'emscripten_bind_b2AABB__GetExtents_p0' has C-linkage specified, but returns user-defined type
+      'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2AABB__GetExtents_p0(b2AABB * self) {
+                                        ^
+box2d_bindings.cpp:2507:41: warning: 'emscripten_bind_b2AABB__GetCenter_p0' has C-linkage specified, but returns user-defined type
+      'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2AABB__GetCenter_p0(b2AABB * self) {
+                                        ^
+box2d_bindings.cpp:2511:41: warning: 'emscripten_bind_b2AABB__get_upperBound_p0' has C-linkage specified, but returns user-defined type
+      'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2AABB__get_upperBound_p0(b2AABB * self) {
+                                        ^
+box2d_bindings.cpp:2529:41: warning: 'emscripten_bind_b2AABB__get_lowerBound_p0' has C-linkage specified, but returns user-defined type
+      'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2AABB__get_lowerBound_p0(b2AABB * self) {
+                                        ^
+box2d_bindings.cpp:2559:41: warning: 'emscripten_bind_b2WeldJointDef__get_localAnchorA_p0' has C-linkage specified, but returns
+      user-defined type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2WeldJointDef__get_localAnchorA_p0(b2WeldJointDef * self) {
+                                        ^
+box2d_bindings.cpp:2565:41: warning: 'emscripten_bind_b2WeldJointDef__get_localAnchorB_p0' has C-linkage specified, but returns
+      user-defined type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2WeldJointDef__get_localAnchorB_p0(b2WeldJointDef * self) {
+                                        ^
+box2d_bindings.cpp:2619:41: warning: 'emscripten_bind_b2MouseJointDef__get_target_p0' has C-linkage specified, but returns user-defined
+      type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2MouseJointDef__get_target_p0(b2MouseJointDef * self) {
+                                        ^
+box2d_bindings.cpp:2661:41: warning: 'emscripten_bind_b2DistanceJointDef__get_localAnchorA_p0' has C-linkage specified, but returns
+      user-defined type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2DistanceJointDef__get_localAnchorA_p0(b2DistanceJointDef * self) {
+                                        ^
+box2d_bindings.cpp:2667:41: warning: 'emscripten_bind_b2DistanceJointDef__get_localAnchorB_p0' has C-linkage specified, but returns
+      user-defined type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2DistanceJointDef__get_localAnchorB_p0(b2DistanceJointDef * self) {
+                                        ^
+box2d_bindings.cpp:2787:41: warning: 'emscripten_bind_b2RopeJointDef__get_localAnchorA_p0' has C-linkage specified, but returns
+      user-defined type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2RopeJointDef__get_localAnchorA_p0(b2RopeJointDef * self) {
+                                        ^
+box2d_bindings.cpp:2793:41: warning: 'emscripten_bind_b2RopeJointDef__get_localAnchorB_p0' has C-linkage specified, but returns
+      user-defined type 'b2Vec2 &' which is incompatible with C [-Wreturn-type-c-linkage]
+b2Vec2& __attribute__((used, noinline)) emscripten_bind_b2RopeJointDef__get_localAnchorB_p0(b2RopeJointDef * self) {
+                                        ^
+113 warnings generated.
+warning: unresolved symbol: _ZNK12b2WheelJoint13GetDefinitionEP15b2WheelJointDef
+

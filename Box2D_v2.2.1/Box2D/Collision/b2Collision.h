@@ -147,7 +147,10 @@ struct b2ClipVertex
 /// Ray-cast input data. The ray extends from p1 to p1 + maxFraction * (p2 - p1).
 struct b2RayCastInput
 {
-	b2Vec2 p1, p2;
+	b2RayCastInput() {}
+
+	b2Vec2 p1;
+	b2Vec2 p2;
 	float32 maxFraction;
 };
 
@@ -155,6 +158,8 @@ struct b2RayCastInput
 /// come from b2RayCastInput.
 struct b2RayCastOutput
 {
+	b2RayCastOutput() {}
+
 	b2Vec2 normal;
 	float32 fraction;
 };
